@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Globe Ring -->
+    <path
+        android:pathData="M36,54 A18,18 0 1,0 72,54 A18,18 0 1,0 36,54 Z"
+        android:strokeWidth="1.8"
+        android:strokeColor="#50F5A623"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,36 C45,36 45,72 54,72 C63,72 63,36 54,36 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#40F5A623"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M36,54 L72,54"
+        android:strokeWidth="1.2"
+        android:strokeColor="#40F5A623" />
+    <!-- Flight arc swoosh -->
+    <path
+        android:pathData="M32,68 C38,50 50,42 66,37"
+        android:strokeWidth="2.8"
+        android:strokeColor="#F59E0B"
+        android:strokeLineCap="round" />
+    <!-- Modern Aircraft silhouette flying forward -->
+    <path
+        android:pathData="M73,34 L65,36 L55,44 L48,43 L52,47 L46,48 L43,47 L41,49 L46,52 L48,56 L50,54 L49,50 L54,49 L62,56 L64,55 L62,47 L73,38 C75,36.5 75,34.5 73,34 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Star compass twinkle at destination -->
+    <path
+        android:pathData="M75,30 L76.5,33.5 L80,35 L76.5,36.5 L75,40 L73.5,36.5 L70,35 L73.5,33.5 Z"
+        android:fillColor="#FBBF24" />
+</vector>

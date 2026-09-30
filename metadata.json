@@ -1,0 +1,6 @@
+{
+  "name": "GENX Holidays",
+  "description": "Premium travel booking platform to explore destinations, curate holidays, and book unforgettable trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
